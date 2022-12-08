@@ -1,23 +1,29 @@
 [
   {
     "id": 7,
-    "title": "Sijang",
-    "content": "from Dongmyo station",
-    "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes7.jpg"
+    "title": "데이비스 테라코트 400g",
+    "brand": "데이비스 DAVIS",
+    "originalPrice": 0,
+    "price": 24000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_content.jpg",
   },
   {
     "id": 8,
-    "title": "Tag gari",
-    "content": "ali and taobao",
-    "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes8.jpg"    
+    "title": "로렌츠 고구마사과스틱 120g",
+    "brand": "로렌츠 LORENZ",
+    "originalPrice": 10000,
+    "price": 7000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_content.jpeg",
   },
   {
     "id": 9,
-    "title": "Flyer",
-    "content": "Refund not available",
-    "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes9.jpg"    
+    "title": "그리니즈 티니 130pcs (1.02kg)",
+    "brand": "그리니즈 GREENIES",
+    "originalPrice": 0,
+    "price": 64900,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_content.jpg",
   }
 ]
