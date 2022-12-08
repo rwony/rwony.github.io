@@ -12,39 +12,47 @@
   {
     "id": 2,
     "title": "지위픽 독 간식 사슴고기 85g",
-    "content": "Born in Seoul",
     "brand": "지위픽 ZIWI PEAK",
     "originalPrice": 19600,
     "price": 15700,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes2.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/Ziwipeak_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/Ziwipeak_content.jpg",
   },
 
   {
     "id": 3,
-    "title": "Grey Yordan",
-    "content": "Born in the States",
-    "price": 130000,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes3.jpg"
+    "title": "서루 하트펫백(스카이블루)",
+    "brand": "서루 SEORU",
+    "originalPrice": 0,
+    "price": 116000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/seoru_thumb.jpeg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/seoru_content.png",
   },
   {
     "id": 4,
-    "title": "Flowey",
-    "content": "only 5 inches",
-    "price": 120000,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes4.jpg"
+    "title": "스텔라앤츄이스X찰스장 해피하트 비치타올",
+    "brand": "스텔라앤츄이스 STELLA & CHEWY'S",
+    "originalPrice": 0,
+    "price": 22000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/stella_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/stella_thumb.jpg",
   },
   {
     "id": 5,
-    "title": "Baby shoes",
-    "content": "for less than 6",
-    "price": 120000,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes5.jpg"
+    "title": "플러쉬퍼피 얼티메이트 슬리커브러쉬 소프트",
+    "brand": "플러쉬퍼피 PLUSH PUPPY",
+    "originalPrice": 0,
+    "price": 80000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_content.jpg",
   },
   {
     "id": 6,
-    "title": "Red Herring",
-    "content": "Born in France",
-    "price": 120000,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes6.jpg"
+    "title": "플러쉬퍼피 코트 레스큐 컨디셔너 250ml",
+    "brand": "플러쉬퍼피 PLUSH PUPPY",
+    "originalPrice": 0,
+    "price": 36000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_content.jpg",
   }
 ]
