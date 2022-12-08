@@ -1,18 +1,22 @@
 [
   {
     "id": 1,
-    "title": "White and Black",
-    "content": "Born in France",
-    "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes1.jpg"
+    "title": "애니유 펫밀크 애니유 | 강아지 고양이 우유 180ml 10개입",
+    "brand": "AniU",
+    "originalPrice": 24000,
+    "price": 16500,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/AniU_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/AniU_content.png",
   },
 
   {
     "id": 2,
-    "title": "Red Knit",
+    "title": "지위픽 독 간식 사슴고기 85g",
     "content": "Born in Seoul",
-    "price": 110000,
-    "url": "https://codingapple1.github.io/shop/shoes2.jpg"
+    "brand": "지위픽 ZIWI PEAK",
+    "originalPrice": 19600,
+    "price": 15700,
+    "thumbnail": "https://codingapple1.github.io/shop/shoes2.jpg"
   },
 
   {
@@ -20,27 +24,27 @@
     "title": "Grey Yordan",
     "content": "Born in the States",
     "price": 130000,
-    "url": "https://codingapple1.github.io/shop/shoes3.jpg"
+    "thumbnail": "https://codingapple1.github.io/shop/shoes3.jpg"
   },
   {
     "id": 4,
     "title": "Flowey",
     "content": "only 5 inches",
     "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes4.jpg"
+    "thumbnail": "https://codingapple1.github.io/shop/shoes4.jpg"
   },
   {
     "id": 5,
     "title": "Baby shoes",
     "content": "for less than 6",
     "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes5.jpg"
+    "thumbnail": "https://codingapple1.github.io/shop/shoes5.jpg"
   },
   {
     "id": 6,
     "title": "Red Herring",
     "content": "Born in France",
     "price": 120000,
-    "url": "https://codingapple1.github.io/shop/shoes6.jpg"
+    "thumbnail": "https://codingapple1.github.io/shop/shoes6.jpg"
   }
 ]
