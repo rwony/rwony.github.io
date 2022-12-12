@@ -6,7 +6,8 @@
     "originalPrice": 0,
     "price": 24000,
     "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_thumb.jpg",
-    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_content.jpg",
+    "content":
+      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_content.jpg"
   },
   {
     "id": 8,
@@ -24,6 +25,6 @@
     "originalPrice": 0,
     "price": 64900,
     "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_thumb.jpg",
-    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_content.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_content.jpg"
   }
 ]
