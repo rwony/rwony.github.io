@@ -11,16 +11,22 @@
   },
   {
     "id": 5,
-    "title": "Baby shoes",
-    "content": "for less than 6",
-    "price": 120000,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes5.jpg"
+    "title": "플러쉬퍼피 얼티메이트 슬리커브러쉬 소프트",
+    "brand": "플러쉬퍼피 PLUSH PUPPY",
+    "originalPrice": 0,
+    "price": 80000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_thumb.jpg",
+    "content":
+      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_content.jpg"
   },
   {
     "id": 6,
-    "title": "Red Herring",
-    "content": "Born in France",
-    "price": 120000,
-    "thumbnail": "https://codingapple1.github.io/shop/shoes6.jpg"
+    "title": "플러쉬퍼피 코트 레스큐 컨디셔너 250ml",
+    "brand": "플러쉬퍼피 PLUSH PUPPY",
+    "originalPrice": 0,
+    "price": 36000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_thumb.jpg",
+    "content":
+      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_content.jpg"
   }
 ]
