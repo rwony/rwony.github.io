@@ -1,13 +1,23 @@
 [
   {
     "id": 4,
-    "title": "스텔라앤츄이스X찰스장 해피하트 비치타올",
-    "brand": "스텔라앤츄이스 STELLA & CHEWYS",
-    "originalPrice": 0,
-    "price": 22000,
-    "thumbnail":
-      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/stella_thumb.jpg",
-    "content":
-      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/stella_thumb.jpg",
+    "title": "Flowey",
+    "content": "only 5 inches",
+    "price": 120000,
+    "thumbnail": "https://codingapple1.github.io/shop/shoes4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Baby shoes",
+    "content": "for less than 6",
+    "price": 120000,
+    "thumbnail": "https://codingapple1.github.io/shop/shoes5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Red Herring",
+    "content": "Born in France",
+    "price": 120000,
+    "thumbnail": "https://codingapple1.github.io/shop/shoes6.jpg"
   }
 ]
