@@ -1,29 +1,38 @@
 [
-{
-id: 7,
-title: "데이비스 테라코트 400g",
-brand: "데이비스 DAVIS",
-originalPrice: 0,
-price: 24000,
-thumbnail: "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_thumb.jpg",
-content: "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_content.jpg"
-},
-{
-id: 8,
-title: "로렌츠 고구마사과스틱 120g",
-brand: "로렌츠 LORENZ",
-originalPrice: 10000,
-price: 7000,
-thumbnail: "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_thumb.jpg",
-content: "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_content.jpeg"
-},
-{
-id: 9,
-title: "그리니즈 티니 130pcs (1.02kg)",
-brand: "그리니즈 GREENIES",
-originalPrice: 0,
-price: 64900,
-thumbnail: "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_thumb.jpg",
-content: "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/greenies_content.jpg"
-}
+  {
+    "id": 5,
+    "title": "플러쉬퍼피 얼티메이트 슬리커브러쉬 소프트",
+    "brand": "플러쉬퍼피 PLUSH PUPPY",
+    "originalPrice": 0,
+    "price": 80000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_content.jpg"
+  },
+  {
+    "id": 6,
+    "title": "플러쉬퍼피 코트 레스큐 컨디셔너 250ml",
+    "brand": "플러쉬퍼피 PLUSH PUPPY",
+    "originalPrice": 0,
+    "price": 36000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_content.jpg"
+  },
+  {
+    "id": 7,
+    "title": "데이비스 테라코트 400g",
+    "brand": "데이비스 DAVIS",
+    "originalPrice": 0,
+    "price": 24000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_content.jpg"
+  },
+  {
+    "id": 8,
+    "title": "로렌츠 고구마사과스틱 120g",
+    "brand": "로렌츠 LORENZ",
+    "originalPrice": 10000,
+    "price": 7000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_content.jpeg"
+  }
 ]
