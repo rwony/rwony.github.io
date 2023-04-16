@@ -6,7 +6,7 @@
     "originalPrice": 0,
     "price": 80000,
     "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_thumb.jpg",
-    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_content.jpg"
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_content.jpg",
   },
   {
     "id": 6,
@@ -15,8 +15,8 @@
     "originalPrice": 0,
     "price": 36000,
     "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_thumb.jpg",
-    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_content.jpg"
-  },
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_content.jpg",
+  }
   {
     "id": 7,
     "title": "데이비스 테라코트 400g",
