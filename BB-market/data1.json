@@ -1,15 +1,5 @@
 [
   {
-    "id": 4,
-    "title": "스텔라앤츄이스X찰스장 해피하트 비치타올",
-    "brand": "스텔라앤츄이스 STELLA & CHEWY'S",
-    "originalPrice": 0,
-    "price": 22000,
-    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/stella_thumb.jpg",
-    "content":
-      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/stella_thumb.jpg"
-  },
-  {
     "id": 5,
     "title": "플러쉬퍼피 얼티메이트 슬리커브러쉬 소프트",
     "brand": "플러쉬퍼피 PLUSH PUPPY",
@@ -28,5 +18,24 @@
     "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_thumb.jpg",
     "content":
       "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/plushpuppy_1_content.jpg"
-  }
+  },
+  {
+    "id": 7,
+    "title": "데이비스 테라코트 400g",
+    "brand": "데이비스 DAVIS",
+    "originalPrice": 0,
+    "price": 24000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_thumb.jpg",
+    "content":
+      "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/davis_content.jpg"
+  },
+  {
+    "id": 8,
+    "title": "로렌츠 고구마사과스틱 120g",
+    "brand": "로렌츠 LORENZ",
+    "originalPrice": 10000,
+    "price": 7000,
+    "thumbnail": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_thumb.jpg",
+    "content": "https://raw.githubusercontent.com/rwony/rwony.github.io/main/BB-market/products/lorenz_content.jpeg"
+  },
 ]
